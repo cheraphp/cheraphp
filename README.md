@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node.js**
 
-- ⚡ Fun fact **Watch Anime (xd)**
+- ⚡ Fun fact **Watching Anime (xd)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
