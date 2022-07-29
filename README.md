@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">I'm 15 Years old, I Love Coding.</h3>
+<h3 align="center">I'm 16 Years old, I Love Coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheraphp&label=Profile%20views&color=0e75b6&style=flat" alt="cheraphp" /> </p>
 
@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [vCodes](https://github.com/vcodes-xyz/vcodes)
 
-- 🌱 I’m currently learning **React?**
+- 🌱 I’m currently learning **Nuxt.js**
 
-- 💬 Ask me about **Node.js**
-
-- ⚡ Fun fact **Watching Anime (xd)**
+- 💬 Ask me about **JavaScript, React and Next**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
