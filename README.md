@@ -4,8 +4,8 @@
 
 > 👦 I am a MERN programmer, i love codin'
 
-- 👨‍💻 Mert, 17
-- 💻 I also code in Lua / Java / Go / Javascript / C# / Python
+- 👨‍💻 Mert, 17 - High School Student.
+- 💻 I also code in Lua / Java / Go / Javascript / C# / Python / React / Next
 - ❤ I love playing video games, such as League of Legendss and Minecraft, and I created some mods for it.
 - 💡 &nbsp;I share my ideas in my blog: [cheraph.xyz](https://cheraph.xyz)
 - 🚗 I share my life: [Instagram](https://www.instagram.com/cheraphp)
