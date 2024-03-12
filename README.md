@@ -6,7 +6,7 @@
 
 - 👨‍💻 Mert, 17 - High School Student.
 - 💻 I also code in Lua / Java / Go / Javascript / C# / Python / React / Next
-- ❤ I love playing video games, such as League of Legendss and Minecraft, and I created some mods for it.
+- ❤ I love playing video games, such as League of Legends and Minecraft, and I created some mods for it.
 - 💡 &nbsp;I share my ideas in my blog: [cheraph.xyz](https://cheraph.xyz)
 - 🚗 I share my life: [Instagram](https://www.instagram.com/cheraphp)
 - 💬 Chat with me on: [Discord](https://discord.gg/oyunlayici) / QQ 204034
