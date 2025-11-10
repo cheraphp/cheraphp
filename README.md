@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/34357771/147701096-0db0d6a2-8f91-473b-8d0e-630dcd6228c9.jpg" style="width: 25%;" align="right">
 
-> 👦 I am a MERN programmer, i love codin'
+> 👦 I am a MERN programmer, i love coding'
 
 - 👨‍💻 Mert, 17 - High School Student.
 - 💻 I also code in Lua / Java / Go / Javascript / C# / Python / React / Next
