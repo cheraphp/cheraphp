@@ -14,7 +14,7 @@
 
 - 👯 I'm looking to collaborate on **Fork requests, open source projects.**
 
-- 💬 Ask me about **React, Node.js, Html, CSS **
+- 💬 Ask me about **React, Node.js, Html, CSS**
 
 - 📫 How to reach me **mert@vocquiz.com.tr**
 
