@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/cheraphq" target="blank"><img src="https://img.shields.io/twitter/follow/cheraphq?logo=twitter&style=for-the-badge" alt="cheraphq" /></a> </p>
 
-- 🔭 I'm currently working on **Eraser Medikal - Self projects**
-
 - 🌱 I'm currently learning **Rust - GoLang**
 
 - 👯 I'm looking to collaborate on **Fork requests, open source projects.**
